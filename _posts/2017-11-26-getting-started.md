@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Services
-featured-img: jane_chan_-28
+featured-img: jane chan_-28
 ---
 
 ## Services
