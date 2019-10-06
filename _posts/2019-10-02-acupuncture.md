@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Services
+title: Acupuncture
 featured-img: service_acu
 ---
 
-## Services
+## Acupuncture
 
 I offer blah blah blah
