@@ -4,7 +4,6 @@ title: Biofeedback
 featured-img: service_bie
 ---
 
-
 ## What is Biofeedback?
 
 Bioenergetic Intolerance Elimination is a simple, natural new approach that 
