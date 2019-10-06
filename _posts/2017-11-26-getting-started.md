@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting Started with Sleek
+title: Traditional Acupunture
 featured-img: sleek
 ---
 
