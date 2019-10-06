@@ -5,9 +5,6 @@ description: > # this means to ignore newlines until "baseurl:"
   Welcome to JanebChan.  This is for metadata - google search... Change me!!!!
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://jabber99.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
-github_username:  janczizikow # replace with your_github_username or comment to remove link from footer
-instagram_username: shanlongjj # replace with your_instagram_username or comment to remove link from footer
 social:
   name: Jane Chan
   links:
